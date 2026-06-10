@@ -1,0 +1,15 @@
+python -c "
+content = '''venv/
+__pycache__/
+*.pyc
+*.pyo
+*.joblib
+*.pkl
+*.db
+.env
+.DS_Store
+Thumbs.db
+'''
+open('.gitignore', 'w', encoding='utf-8').write(content)
+print('Done')
+"

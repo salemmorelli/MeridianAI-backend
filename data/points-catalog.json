@@ -1,0 +1,667 @@
+{
+  "version": 1,
+  "sourceNote": "Educational catalog aligned with WHO Western Pacific nomenclature where applicable. Verify locations in authoritative references before clinical use.",
+  "defaults": {
+    "byRegion": {
+      "hand": "LI4",
+      "forearm": "PC6",
+      "face": "YINTANG",
+      "neck": "GB20",
+      "leg": "ST36",
+      "foot": "LV3",
+      "trunk": "CV6"
+    }
+  },
+  "points": [
+    {
+      "id": "LI4",
+      "name": "LI4 (Hegu)",
+      "whoCode": "LI4",
+      "whoNamePinyin": "Hegu",
+      "channelCode": "LI",
+      "meridian": "large-intestine",
+      "organSystem": "Large Intestine / Head–face pathway",
+      "location": "Dorsum of the hand between the first and second metacarpals, near the midpoint of the second metacarpal.",
+      "howTo": "Press firmly in small circles 30–60 seconds per hand.",
+      "benefits": [
+        "headache",
+        "stress",
+        "tooth pain",
+        "neck tension"
+      ],
+      "matchKeywords": [
+        "jaw tightness",
+        "facial tension",
+        "migraine",
+        "sinus pressure"
+      ],
+      "visual": {
+        "region": "hand",
+        "x": 92,
+        "y": 62,
+        "note": "Between thumb and index metacarpal"
+      },
+      "imageUrl": "./images/points/LI4.jpg",
+      "imageAlt": "Dorsal hand anatomy guide"
+    },
+    {
+      "id": "LI11",
+      "name": "LI11 (Quchi)",
+      "whoCode": "LI11",
+      "whoNamePinyin": "Quchi",
+      "channelCode": "LI",
+      "meridian": "large-intestine",
+      "organSystem": "Large Intestine / Elbow region",
+      "location": "Lateral end of the elbow crease when the elbow is flexed.",
+      "howTo": "Firm thumb pressure on the outer elbow crease 30–45 seconds each side.",
+      "benefits": [
+        "feverish feeling",
+        "skin irritation",
+        "elbow soreness"
+      ],
+      "matchKeywords": [
+        "heat",
+        "immune support",
+        "arm fatigue"
+      ],
+      "visual": {
+        "region": "forearm",
+        "x": 58,
+        "y": 118,
+        "note": "Lateral elbow crease"
+      },
+      "imageUrl": "./images/points/LI11.jpg",
+      "imageAlt": "Forearm/elbow reference"
+    },
+    {
+      "id": "PC6",
+      "name": "PC6 (Neiguan)",
+      "whoCode": "PC6",
+      "whoNamePinyin": "Neiguan",
+      "channelCode": "PC",
+      "meridian": "pericardium",
+      "organSystem": "Pericardium / Calm chest and stomach",
+      "location": "Anterior forearm, ~3 finger-breadths proximal to the wrist crease between key flexor tendons.",
+      "howTo": "Gentle sustained thumb pressure with slow exhales 1–2 minutes.",
+      "benefits": [
+        "nausea",
+        "anxiety",
+        "motion sickness",
+        "palpitations"
+      ],
+      "matchKeywords": [
+        "chest tightness",
+        "vomiting",
+        "worry",
+        "insomnia"
+      ],
+      "visual": {
+        "region": "forearm",
+        "x": 100,
+        "y": 92,
+        "note": "Inner forearm above wrist"
+      },
+      "imageUrl": "./images/points/PC6.jpg",
+      "imageAlt": "Forearm and wrist"
+    },
+    {
+      "id": "PC8",
+      "name": "PC8 (Laogong)",
+      "whoCode": "PC8",
+      "whoNamePinyin": "Laogong",
+      "channelCode": "PC",
+      "meridian": "pericardium",
+      "organSystem": "Pericardium / Calm spirit",
+      "location": "Center of the palm where the middle fingertip meets when making a loose fist.",
+      "howTo": "Thumb pad on palm center 30–60 seconds per hand.",
+      "benefits": [
+        "anxiety",
+        "stress",
+        "palpitations"
+      ],
+      "matchKeywords": [
+        "panic",
+        "racing heart",
+        "restless"
+      ],
+      "visual": {
+        "region": "hand",
+        "x": 100,
+        "y": 72,
+        "note": "Center of palm"
+      },
+      "imageUrl": "./images/points/PC8.jpg",
+      "imageAlt": "Palm reference"
+    },
+    {
+      "id": "YINTANG",
+      "name": "Yin Tang (EX-HN3)",
+      "whoCode": "EX-HN3",
+      "whoNamePinyin": "Yintang",
+      "channelCode": "EX",
+      "meridian": "governing-vessel",
+      "organSystem": "Extra point / Midline calming",
+      "location": "Midline of the forehead between the medial ends of the eyebrows.",
+      "howTo": "Very light circular pressure up to 1 minute.",
+      "benefits": [
+        "stress",
+        "insomnia",
+        "headache",
+        "sinus pressure"
+      ],
+      "matchKeywords": [
+        "racing thoughts",
+        "eye strain",
+        "tension between brows"
+      ],
+      "visual": {
+        "region": "face",
+        "x": 100,
+        "y": 48,
+        "note": "Between eyebrows"
+      },
+      "imageUrl": "./images/points/YINTANG.jpg",
+      "imageAlt": "Forehead between brows"
+    },
+    {
+      "id": "GV20",
+      "name": "GV20 (Baihui)",
+      "whoCode": "GV20",
+      "whoNamePinyin": "Baihui",
+      "channelCode": "GV",
+      "meridian": "governing-vessel",
+      "organSystem": "Governing Vessel / Vertex focus",
+      "location": "Vertex of the scalp on the midline (soft contact only).",
+      "howTo": "Light circular scalp contact 30–45 seconds; avoid hard pressure.",
+      "benefits": [
+        "dizziness",
+        "fatigue",
+        "brain fog"
+      ],
+      "matchKeywords": [
+        "heavy head",
+        "lightheaded",
+        "concentration"
+      ],
+      "visual": {
+        "region": "face",
+        "x": 100,
+        "y": 22,
+        "note": "Top of head — gentle only"
+      },
+      "imageUrl": "./images/points/GV20.jpg",
+      "imageAlt": "Head midline reference"
+    },
+    {
+      "id": "BL2",
+      "name": "BL2 (Zanzhu)",
+      "whoCode": "BL2",
+      "whoNamePinyin": "Zanzhu",
+      "channelCode": "BL",
+      "meridian": "bladder",
+      "organSystem": "Bladder / Brow–eye region",
+      "location": "Medial end of the eyebrow at the supraorbital notch.",
+      "howTo": "Gentle press–release at inner brow 20–40 seconds per side.",
+      "benefits": [
+        "eye strain",
+        "headache",
+        "sinus pressure"
+      ],
+      "matchKeywords": [
+        "brow ache",
+        "screen fatigue",
+        "allergy eyes"
+      ],
+      "visual": {
+        "region": "face",
+        "x": 88,
+        "y": 52,
+        "note": "Inner eyebrow"
+      },
+      "imageUrl": "./images/points/BL2.jpg",
+      "imageAlt": "Brow region"
+    },
+    {
+      "id": "GB20",
+      "name": "GB20 (Fengchi)",
+      "whoCode": "GB20",
+      "whoNamePinyin": "Fengchi",
+      "channelCode": "GB",
+      "meridian": "gallbladder",
+      "meridians": [
+        "gallbladder",
+        "bladder",
+        "small-intestine"
+      ],
+      "organSystem": "Gallbladder / Suboccipital release",
+      "location": "Depression between upper sternocleidomastoid and trapezius at the occipital border.",
+      "howTo": "Thumbs in suboccipital hollows, gentle upward angle 30–45 seconds.",
+      "benefits": [
+        "headache",
+        "migraine",
+        "neck stiffness",
+        "eye strain"
+      ],
+      "matchKeywords": [
+        "occipital pain",
+        "computer neck",
+        "tension headache"
+      ],
+      "visual": {
+        "region": "neck",
+        "x": 100,
+        "y": 78,
+        "note": "Base of skull lateral"
+      },
+      "imageUrl": "./images/points/GB20.jpg",
+      "imageAlt": "Upper neck / occiput"
+    },
+    {
+      "id": "LV3",
+      "name": "LV3 (Tai Chong)",
+      "whoCode": "LR3",
+      "whoNamePinyin": "Taichong",
+      "channelCode": "LR",
+      "meridian": "liver",
+      "organSystem": "Liver / Stress flow",
+      "location": "Dorsum of foot in the depression distal to the first–second metatarsal junction.",
+      "howTo": "Thumb pressure 1–2 minutes per foot.",
+      "benefits": [
+        "stress",
+        "irritability",
+        "menstrual cramps",
+        "headache"
+      ],
+      "matchKeywords": [
+        "anger",
+        "PMS",
+        "frustration"
+      ],
+      "visual": {
+        "region": "foot",
+        "x": 96,
+        "y": 62,
+        "note": "Between first and second toes"
+      },
+      "imageUrl": "./images/points/LV3.jpg",
+      "imageAlt": "Dorsal feet"
+    },
+    {
+      "id": "LR14",
+      "name": "LR14 (Qimen)",
+      "whoCode": "LR14",
+      "whoNamePinyin": "Qimen",
+      "channelCode": "LR",
+      "meridian": "liver",
+      "organSystem": "Liver / Costal ease",
+      "location": "Sixth intercostal space on the mamillary line (light touch only).",
+      "howTo": "Light fingertip contact along lower ribs 20–40 seconds.",
+      "benefits": [
+        "stress",
+        "bloating",
+        "rib tension"
+      ],
+      "matchKeywords": [
+        "sighing",
+        "side stitch",
+        "anxiety breathing"
+      ],
+      "visual": {
+        "region": "trunk",
+        "x": 100,
+        "y": 108,
+        "note": "Lower rib side — light touch"
+      },
+      "imageUrl": "./images/points/LR14.jpg",
+      "imageAlt": "Torso reference"
+    },
+    {
+      "id": "ST25",
+      "name": "ST25 (Tianshu)",
+      "whoCode": "ST25",
+      "whoNamePinyin": "Tianshu",
+      "channelCode": "ST",
+      "meridian": "stomach",
+      "organSystem": "Stomach / Intestinal comfort",
+      "location": "Abdomen, 2 cun lateral to the umbilicus.",
+      "howTo": "Warm hands, gentle clockwise circles 1–2 minutes.",
+      "benefits": [
+        "bloating",
+        "digestion",
+        "cramping"
+      ],
+      "matchKeywords": [
+        "constipation",
+        "gas",
+        "IBS discomfort"
+      ],
+      "visual": {
+        "region": "trunk",
+        "x": 92,
+        "y": 118,
+        "note": "Lateral to navel"
+      },
+      "imageUrl": "./images/points/ST25.jpg",
+      "imageAlt": "Abdomen reference"
+    },
+    {
+      "id": "CV6",
+      "name": "CV6 (Qihai)",
+      "whoCode": "CV6",
+      "whoNamePinyin": "Qihai",
+      "channelCode": "CV",
+      "meridian": "conception-vessel",
+      "organSystem": "Conception vessel / Core vitality",
+      "location": "Anterior midline 1.5 cun inferior to the umbilicus.",
+      "howTo": "Gentle palm warmth; avoid strong pressure if pregnant.",
+      "benefits": [
+        "fatigue",
+        "stress",
+        "low energy"
+      ],
+      "matchKeywords": [
+        "burnout",
+        "vitality",
+        "weakness"
+      ],
+      "visual": {
+        "region": "trunk",
+        "x": 100,
+        "y": 128,
+        "note": "Lower abdomen midline"
+      },
+      "imageUrl": "./images/points/CV6.jpg",
+      "imageAlt": "Lower abdomen"
+    },
+    {
+      "id": "ST36",
+      "name": "ST36 (Zusanli)",
+      "whoCode": "ST36",
+      "whoNamePinyin": "Zusanli",
+      "channelCode": "ST",
+      "meridian": "stomach",
+      "organSystem": "Stomach / Digestion and stamina",
+      "location": "Anterolateral leg below the knee, lateral to the tibial crest (classic ST36 area).",
+      "howTo": "Circular thumb massage lateral to shin ~1 minute each leg.",
+      "benefits": [
+        "fatigue",
+        "digestion",
+        "immunity",
+        "bloating"
+      ],
+      "matchKeywords": [
+        "weak legs",
+        "appetite",
+        "post viral tired"
+      ],
+      "visual": {
+        "region": "leg",
+        "x": 112,
+        "y": 118,
+        "note": "Below kneecap, lateral shin"
+      },
+      "imageUrl": "./images/points/ST36.jpg",
+      "imageAlt": "Lower leg"
+    },
+    {
+      "id": "ST40",
+      "name": "ST40 (Fenglong)",
+      "whoCode": "ST40",
+      "whoNamePinyin": "Fenglong",
+      "channelCode": "ST",
+      "meridian": "stomach",
+      "organSystem": "Stomach / Heaviness patterns",
+      "location": "Lower leg lateral–anterior to fibula (classical phlegm point).",
+      "howTo": "Firm circles 45–60 seconds per leg.",
+      "benefits": [
+        "bloating",
+        "heavy legs",
+        "brain fog"
+      ],
+      "matchKeywords": [
+        "mucus",
+        "sluggish",
+        "leg swelling"
+      ],
+      "visual": {
+        "region": "leg",
+        "x": 108,
+        "y": 98,
+        "note": "Outer lower shin"
+      },
+      "imageUrl": "./images/points/ST40.jpg",
+      "imageAlt": "Lower leg lateral"
+    },
+    {
+      "id": "SP6",
+      "name": "SP6 (Sanyinjiao)",
+      "whoCode": "SP6",
+      "whoNamePinyin": "Sanyinjiao",
+      "channelCode": "SP",
+      "meridian": "spleen",
+      "organSystem": "Spleen / Lower leg yin crossing",
+      "location": "Medial leg, 3 cun above the medial malleolus on the tibial border.",
+      "howTo": "Gentle steady pressure up to 60 seconds; avoid strong stimulation if pregnant.",
+      "benefits": [
+        "insomnia",
+        "menstrual cramps",
+        "stress"
+      ],
+      "matchKeywords": [
+        "sleep",
+        "hormone balance",
+        "night waking"
+      ],
+      "visual": {
+        "region": "leg",
+        "x": 94,
+        "y": 108,
+        "note": "Inner leg above ankle"
+      },
+      "imageUrl": "./images/points/SP6.jpg",
+      "imageAlt": "Inner lower leg"
+    },
+    {
+      "id": "GB34",
+      "name": "GB34 (Yanglingquan)",
+      "whoCode": "GB34",
+      "whoNamePinyin": "Yanglingquan",
+      "channelCode": "GB",
+      "meridian": "gallbladder",
+      "organSystem": "Gallbladder / Sinew ease",
+      "location": "Depression anterior and inferior to the fibular head.",
+      "howTo": "Thumb circles below outer knee 45–60 seconds each side.",
+      "benefits": [
+        "leg cramps",
+        "rib tension",
+        "stress"
+      ],
+      "matchKeywords": [
+        "IT band",
+        "lateral knee",
+        "tendon tightness"
+      ],
+      "visual": {
+        "region": "leg",
+        "x": 118,
+        "y": 132,
+        "note": "Below outer knee"
+      },
+      "imageUrl": "./images/points/GB34.jpg",
+      "imageAlt": "Lateral knee"
+    },
+    {
+      "id": "BL60",
+      "name": "BL60 (Kunlun)",
+      "whoCode": "BL60",
+      "whoNamePinyin": "Kunlun",
+      "channelCode": "BL",
+      "meridian": "bladder",
+      "organSystem": "Bladder / Ankle pathway",
+      "location": "Between the lateral malleolus and Achilles tendon.",
+      "howTo": "Pinch–press 30–45 seconds per ankle.",
+      "benefits": [
+        "ankle stiffness",
+        "neck stiffness",
+        "headache"
+      ],
+      "matchKeywords": [
+        "heel pain",
+        "sprain recovery",
+        "low back tight"
+      ],
+      "visual": {
+        "region": "foot",
+        "x": 108,
+        "y": 88,
+        "note": "Outer ankle / Achilles"
+      },
+      "imageUrl": "./images/points/BL60.jpg",
+      "imageAlt": "Lateral ankle"
+    },
+    {
+      "id": "KI3",
+      "name": "KI3 (Taixi)",
+      "whoCode": "KI3",
+      "whoNamePinyin": "Taixi",
+      "channelCode": "KI",
+      "meridian": "kidney",
+      "organSystem": "Kidney / Ankle anchor",
+      "location": "Between medial malleolus and Achilles, level with malleolus tip.",
+      "howTo": "Thumb pad in hollow 45–60 seconds per side.",
+      "benefits": [
+        "fatigue",
+        "insomnia",
+        "anxiety"
+      ],
+      "matchKeywords": [
+        "night sweats",
+        "restless legs",
+        "deep tired"
+      ],
+      "visual": {
+        "region": "foot",
+        "x": 88,
+        "y": 88,
+        "note": "Inner ankle / Achilles"
+      },
+      "imageUrl": "./images/points/KI3.jpg",
+      "imageAlt": "Inner ankle"
+    },
+    {
+      "id": "LU7",
+      "name": "LU7 (Lieque)",
+      "whoCode": "LU7",
+      "whoNamePinyin": "Lieque",
+      "channelCode": "LU",
+      "meridian": "lung",
+      "organSystem": "Lung / Neck–head coupling",
+      "location": "Radial forearm superior to the radial styloid (~1.5 cun above wrist).",
+      "howTo": "Moderate pressure along radial forearm 45 seconds each arm.",
+      "benefits": [
+        "headache",
+        "neck tension",
+        "cough"
+      ],
+      "matchKeywords": [
+        "cold onset",
+        "scratchy throat",
+        "wrist ache"
+      ],
+      "visual": {
+        "region": "forearm",
+        "x": 72,
+        "y": 100,
+        "note": "Thumb-side forearm above wrist"
+      },
+      "imageUrl": "./images/points/LU7.jpg",
+      "imageAlt": "Radial forearm"
+    },
+    {
+      "id": "HT7",
+      "name": "HT7 (Shenmen)",
+      "whoCode": "HT7",
+      "whoNamePinyin": "Shenmen",
+      "channelCode": "HT",
+      "meridian": "heart",
+      "organSystem": "Heart / Sleep anchor",
+      "location": "Ulnar wrist crease beside the pisiform depression.",
+      "howTo": "Gentle circles at pinky-side wrist crease ~1 minute each wrist.",
+      "benefits": [
+        "insomnia",
+        "anxiety",
+        "palpitations"
+      ],
+      "matchKeywords": [
+        "broken sleep",
+        "grief tension",
+        "calm heart"
+      ],
+      "visual": {
+        "region": "hand",
+        "x": 108,
+        "y": 88,
+        "note": "Pinky wrist crease"
+      },
+      "imageUrl": "./images/points/HT7.jpg",
+      "imageAlt": "Ulnar wrist"
+    },
+    {
+      "id": "SI3",
+      "name": "SI3 (Houxi)",
+      "whoCode": "SI3",
+      "whoNamePinyin": "Houxi",
+      "channelCode": "SI",
+      "meridian": "small-intestine",
+      "organSystem": "Small Intestine / Neck–occiput coupling",
+      "location": "Proximal to the fifth MCP on the ulnar hand edge when fist is loose.",
+      "howTo": "Press outer hand edge near fifth knuckle 30–45 seconds.",
+      "benefits": [
+        "neck stiffness",
+        "headache",
+        "eye strain"
+      ],
+      "matchKeywords": [
+        "upper spine tight",
+        "computer posture"
+      ],
+      "visual": {
+        "region": "hand",
+        "x": 84,
+        "y": 78,
+        "note": "Ulnar hand edge"
+      },
+      "imageUrl": "./images/points/SI3.jpg",
+      "imageAlt": "Hand ulnar edge"
+    },
+    {
+      "id": "TE5",
+      "name": "TE5 (Waiguan)",
+      "whoCode": "TE5",
+      "whoNamePinyin": "Waiguan",
+      "channelCode": "TE",
+      "meridian": "triple-energizer",
+      "organSystem": "Triple Energizer / Lateral forearm",
+      "location": "Dorsal forearm between radius and ulna, ~2 cun proximal to dorsal wrist crease.",
+      "howTo": "Pressure between forearm bones above back of wrist.",
+      "benefits": [
+        "headache",
+        "neck tension",
+        "feverish feeling"
+      ],
+      "matchKeywords": [
+        "outer arm ache",
+        "ear fullness",
+        "side body tension"
+      ],
+      "visual": {
+        "region": "forearm",
+        "x": 128,
+        "y": 100,
+        "note": "Dorsal forearm above wrist"
+      },
+      "imageUrl": "./images/points/TE5.jpg",
+      "imageAlt": "Dorsal forearm"
+    }
+  ]
+}
